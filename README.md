@@ -1,6 +1,6 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/rktddos/blob/master/LICENSE) 
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/download/releases/2.7/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux20%)
 
 <h2>RKT DDoS</h2>
 
