@@ -8,7 +8,7 @@
 
 ### Descripton ###
 
-![DDOS Attack-compressed](https://user-images.githubusercontent.com/69615463/96414395-b0326e00-120a-11eb-832a-a66f32b6f2dd.jpg)
+![ddos-attack](https://user-images.githubusercontent.com/69615463/96416706-f806c480-120d-11eb-94f2-e059f60cb8f3.png)
 
 
 ### DDos(Distributed Denial-Of-Service) ###
