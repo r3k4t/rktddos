@@ -6,12 +6,12 @@
 
 <h4>Author : RKT</h4>
 
-### Descripton ###
+### Description ###
 
 ![ddos-attack](https://user-images.githubusercontent.com/69615463/96416706-f806c480-120d-11eb-94f2-e059f60cb8f3.png)
 
 
-### DDos(Distributed Denial-Of-Service) ###
+### DDoS(Distributed Denial-Of-Service) ###
 
 A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.
 
